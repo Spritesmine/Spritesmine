@@ -6,11 +6,11 @@
 
 Hi, glad to meet you~
 
-Here is Spritesmine, a student from Hebei, China.
-
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritesmine&layout=compact">
 </a>
+
+Here is Spritesmine, a student from Hebei, China.
 
 Computer content depth enthusiasts, tossing experts, especially interested in computer skills. In my spare time, I like to write code, watch computer content and study computer content. Study for hobbies. I like tossing. My article will be on my [Blog](https://qisansui.cn)(zh-CN).
 

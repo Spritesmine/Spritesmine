@@ -16,7 +16,7 @@ Computer content depth enthusiasts, tossing experts, especially interested in co
 
 I prefer tossing about, familiar but <b>not proficient</b> in the following skills (in order of contact time):
 
-==>
+(づ｡◕ᴗᴗ◕｡)づ ： Loading...
 
 Out of self-learning and hobbies, I will open source some small projects on Github. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
 

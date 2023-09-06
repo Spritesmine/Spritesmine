@@ -16,7 +16,9 @@ Computer content depth enthusiasts, tossing experts, especially interested in co
 
 Out of self-learning and hobbies, I will open source some small projects on Github. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
 
-Everything comes from interest
+Everything comes from interest~~~
+
+I prefer tossing and turning, familiar but <b>not proficient</b> in the following skills (in order of contact time):
 
 You can also find my [learning summary](https://www.qisansui.cn) and [open source project above](https://github.com/Spritesmine/)
 

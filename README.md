@@ -1,40 +1,39 @@
-<h1 align="center">
-  <a href="https://qisansui.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hope%20you%20happy%20everyday%22);&center=true&size=19">
+#你好👋
+
+<氕排列=“居中”>
+  <a href=" https://qisansui.cn/">
+    <img科学研究委员会="https://readme-typing-svg.herokuapp.com/？lines=fmt。println(% 22 hope % 20 you % 20 happy % 20 daily % 22)；&中心=真&尺寸=19英寸>
   </a>
-</h1>
+</氕>
 
-<img src="https://cdn.jsdelivr.net/gh/Spritesmine/Spritesmine/header.png"/>
+<img科学研究委员会=" https://cdn . jsdelivr . net/GH/sprites mine/sprites mine/header . png "/>
 
-<div align="center">
-  <b><a style="font-size: 200px;">Spritesmine 祁三岁</a></b>
-</div>
+[![](https://img.shields.io/badge/name-QISANSUI-orange?style = flat-square & logo = analog)]() [![](https://img.shields.io/badge/🇨🇳_Live_In-💖_中国-e60000？style =扁平方形)]() [![](https://img.shields.io/badge/🤣_语言-汉语、英粉？style =扁平方形)]() [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style = flat-square & logo = Visual-Studio-Code)]() [![](https://img.shields.io/badge/OS-Windows_11-deepskyblue?style=flat-square&logo=Windows)]() [![](https://img.shields.io/badge/Blog-QISANSUI.CN-339933？style = flat-square & logo = app veyor)]() [![](https://data . jsdelivr . com/v1/package/GH/sprites mine/sprites mine/badge)]() [![](https://img . shields . io/badge/Gmail-sansuishushu @ Gmail . com-spring green？style=flat&logo=gmail&link=mailto:sansuishushu@gmail.com)]() [![](https://img.shields.io/badge/t.me-@QISANSUI-goldenrod?style=flat&logo=telegram)]() [![](https://visitor-badge.laobi.icu/badge?page _ id = sprite mine . sprite mine)]() 
 
-[![](https://img.shields.io/badge/name-QISANSUI-orange?style=flat-square&logo=Analogue)]() [![](https://img.shields.io/badge/🇨🇳_Live_In-💖_China-e60000?style=flat-square)]() [![](https://img.shields.io/badge/🤣_Language-汉语、English-pink?style=flat-square)]() [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code)]() [![](https://img.shields.io/badge/OS-Windows_11-deepskyblue?style=flat-square&logo=Windows)]() [![](https://img.shields.io/badge/Blog-QISANSUI.CN-339933?style=flat-square&logo=appveyor)]() [![](https://img.shields.io/badge/Gmail-sansuishushu@gmail.com-springgreen?style=flat&logo=gmail&link=mailto:sansuishushu@gmail.com)]() [![](https://data.jsdelivr.com/v1/package/gh/Spritesmine/Spritesmine/badge)]() [![](https://img.shields.io/badge/t.me-@QISANSUI-goldenrod?style=flat&logo=telegram)]() [![](https://visitor-badge.laobi.icu/badge?page_id=spritesmine.spritesmine)]() 
 
-> 落日沉溺于橘色的海 晚风沦陷于赤诚的爱
+>落日沉溺于橘色的海 晚风沦陷于赤诚的爱
 
-Hi, glad to meet you ~
+嗨，很高兴认识你~
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritesmine&layout=compact">
+  <img排列=“对” 科学研究委员会="https://github-readme-stats.vercel.app/api/top-langs/？用户名= Spritesmine&布局=紧凑”>
 </a>
 
-Here is Spritesmine, a student from Hebei, China.
+这是来自中国河北的学生斯普里特斯明。
 
-Computer content depth enthusiasts, tossing experts, especially interested in computer skills. I like everything that Interests me. In my spare time, I like to write code, watch computer content and study computer content. Study for hobbies. I like tossing. My article will be on my [Blog](https://qisansui.cn)(zh-CN).
+计算机内容深度爱好者，折腾专家，对计算机技能特别感兴趣。我喜欢一切让我感兴趣的东西。业余时间喜欢写代码，看计算机内容，研究计算机内容。为了兴趣爱好而学习。我喜欢折腾。我的文章将在我的[博客](https://qisansui.cn)(zh-CN)。
 
-I want to be an interesting person and create something that can be remembered by others.
+我想成为一个有趣的人，创造一些能被别人记住的东西。
 
-I prefer tossing about, familiar but <b>not proficient</b> in the following skills (in order of contact time):
+我更喜欢折腾，熟悉但<b>不精通</b>在以下技能中(按接触时间顺序):
 
-(づ｡◕ᴗᴗ◕｡)づ ： Loading...
+(づ｡◕ᴗᴗ◕｡)づ:装载...
 
-Out of self-learning and hobbies, I will open source some small projects on Github. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
+出于自学和爱好，我会在Github上开源一些小项目。我的期望是根据我的喜好研究一些有趣的项目。欢迎大家发邮件或者留言和我交流。
 
-Everything comes from interest ~ ~ ~
+一切源于兴趣~ ~ ~
 
-You can also find my [learning summary](https://www.qisansui.cn) and [open source project above](https://github.com/Spritesmine/)
+你也可以找到我的[学习总结](https://www.qisansui.cn)和[上面的开源项目](https://github.com/Spritesmine/)
 
 
-[More about me](https://qisansui.cn)
+[更多关于我的事](https://qisansui.cn)

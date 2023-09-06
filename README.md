@@ -14,11 +14,13 @@ Here is Spritesmine, a student from Hebei, China.
 
 Computer content depth enthusiasts, tossing experts, especially interested in computer skills. In my spare time, I like to write code, watch computer content and study computer content. Study for hobbies. I like tossing. My article will be on my [Blog](https://qisansui.cn)(zh-CN).
 
+I prefer tossing about, familiar but <b>not proficient</b> in the following skills (in order of contact time):
+
+==>
+
 Out of self-learning and hobbies, I will open source some small projects on Github. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
 
 Everything comes from interest~~~
-
-I prefer tossing about, familiar but <b>not proficient</b> in the following skill （in order of contact time）:
 
 You can also find my [learning summary](https://www.qisansui.cn) and [open source project above](https://github.com/Spritesmine/)
 

@@ -1,7 +1,7 @@
 ## Spritesmine 祁三岁
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hope%20you%20happy%20everyday%22);&center=true&size=19">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22任何没有经过自己大脑处理过的知识永远都不可能真正属于你%22);&center=true&size=19">
   </a>
 </h1>
 

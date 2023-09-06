@@ -18,7 +18,7 @@ Out of self-learning and hobbies, I will open source some small projects on Gith
 
 Everything comes from interest~~~
 
-I prefer tossing about, familiar but <b>not proficient</b> in the following skills (in order of contact time):
+I prefer tossing about, familiar but <b>not proficient</b> in the following skill （in order of contact time）:
 
 You can also find my [learning summary](https://www.qisansui.cn) and [open source project above](https://github.com/Spritesmine/)
 

@@ -14,6 +14,8 @@ Here is Spritesmine, a student from Hebei, China.
 
 Computer content depth enthusiasts, tossing experts, especially interested in computer skills. In my spare time, I like to write code, watch computer content and study computer content. Study for hobbies. I like tossing. My article will be on my [Blog](https://qisansui.cn)(zh-CN).
 
+I want to be an interesting person and create something that can be remembered by others.
+
 I prefer tossing about, familiar but <b>not proficient</b> in the following skills (in order of contact time):
 
 (づ｡◕ᴗᴗ◕｡)づ ： Loading...

@@ -10,6 +10,7 @@
 
 [![](https://img.shields.io/badge/name-QISANSUI-orange?style=flat-square&logo=Analogue)]() [![](https://img.shields.io/badge/🇨🇳_Live_In-💖_China-e60000?style=flat-square)]() [![](https://img.shields.io/badge/🤣_Language-汉语、English-pink?style=flat-square)]() [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code)]() [![](https://img.shields.io/badge/OS-Windows_11-deepskyblue?style=flat-square&logo=Windows)]() [![](https://visitor-badge.laobi.icu/badge?page_id=spritesmine.spritesmine)]() [![](https://data.jsdelivr.com/v1/package/gh/Spritesmine/Spritesmine/badge)]() [![](https://img.shields.io/badge/Blog-QISANSUI.CN-339933?style=flat-square&logo=appveyor)]() [![](https://img.shields.io/badge/Gmail-sansuishushu@gmail.com-springgreen?style=flat&logo=gmail&link=mailto:sansuishushu@gmail.com)]() [![](https://img.shields.io/badge/t.me-@QISANSUI-goldenrod?style=flat&logo=telegram)]() [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]() 
 
+
 ### ٩(๑❛ᴗ❛๑)۶&nbsp;&nbsp;&nbsp;&nbsp;- -&nbsp;&nbsp;Spritesmine&nbsp;&nbsp;- -&nbsp;&nbsp;&nbsp;ヾ(✿ﾟ▽ﾟ)ノ
 
 > 落日沉溺于橘色的海 晚风沦陷于赤诚的爱
@@ -32,9 +33,10 @@ I prefer tossing about, familiar but <b>not proficient</b> in the following skil
 
 Out of self-learning and hobbies, I will open source some small projects on Github. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
 
-(｡◕ˇ∀ˇ◕) Everything comes from interest ~ ~ ~
+(｡◕ˇ∀ˇ◕) Everything comes from interest ~ ~ ~ 
 
 You can also find my [learning summary](https://www.qisansui.cn) and [open source project above](https://github.com/Spritesmine/)
 
+[More about me](https://qisansui.cn) 
 
-[More about me](https://qisansui.cn)
+

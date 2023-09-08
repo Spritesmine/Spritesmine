@@ -29,6 +29,13 @@ I want to be an interesting person and create something that can be remembered b
 
 I prefer tossing about, familiar but <b>not proficient</b> in the following skills (in order of contact time):
 
+<details>
+  <summary>I prefer tossing about, familiar but <b>not proficient</b> in the following skills (in order of contact time):</summary>
+  
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+  
+</details>
+
 (づ｡◕ᴗᴗ◕｡)づ ： Loading...
 
 Out of self-learning and hobbies, I will open source some small projects on Github. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.

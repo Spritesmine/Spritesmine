@@ -31,7 +31,7 @@ I prefer tossing about, familiar but <b>not proficient</b> in the following skil
 
 (づ｡◕ᴗᴗ◕｡)づ ： Loading...
 
-Out of self-learning and hobbies, I will open source some small projects on Github. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
+Out of self-learning and hobbies, I will open source some small projects on Github. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
 
 (｡◕ˇ∀ˇ◕) Everything comes from interest ~ ~ ~ 
 

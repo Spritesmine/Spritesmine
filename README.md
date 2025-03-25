@@ -24,6 +24,7 @@
   [![](https://data.jsdelivr.com/v1/package/gh/Spritesmine/Spritesmine/badge)]() 
   [![](https://img.shields.io/badge/t.me-@QISANSUI-goldenrod?style=flat&logo=telegram)]() 
     <a href="mailto:sansuishushu@gmail.com"><img src="https://img.shields.io/badge/Gmail-sansuishushu@gmail.com-springgreen?style=flat&logo=gmail&link=mailto:sansuishushu@gmail.com"></a>
+    <a href="https://space.bilibili.com/91371045"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>
   [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]() 
   </div>
 

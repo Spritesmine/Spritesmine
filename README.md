@@ -16,7 +16,7 @@
     <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🇨🇳_Live_In-💖_China-e60000?style=flat-square"></a>
     <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🤣_Language-汉语、English-pink?style=flat-square"></a>
     <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=flat-square&logo=devbox"></a>
-    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/OS-Windows_11、Linux-deepskyblue?style=flat-square&logo=binance"></a>
+    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/OS-Windows、Linux-deepskyblue?style=flat-square&logo=binance"></a>
     <a href=“https://qisansui.cn/"><img src="https://img.shields.io/badge/Blog-QISANSUI.CN-339933?style=flat-square&logo=appveyor"></a>
   
   <!-- 独立徽标 -->

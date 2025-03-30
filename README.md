@@ -15,8 +15,8 @@
     <a href="https://qisansui.cn/"><img src="https://img.shields.io/badge/name-QISANSUI-orange?style=flat-square&logo=Analogue"></a>
     <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🇨🇳_Live_In-💖_China-e60000?style=flat-square"></a>
     <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🤣_Language-汉语、English-pink?style=flat-square"></a>
-    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code"></a>
-    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/OS-Windows_11-deepskyblue?style=flat-square&logo=Windows"></a>
+    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=flat-square&logo=devbox"></a>
+    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/OS-Windows_11、Linux-deepskyblue?style=flat-square&logo=binance"></a>
     <a href=“https://qisansui.cn/"><img src="https://img.shields.io/badge/Blog-QISANSUI.CN-339933?style=flat-square&logo=appveyor"></a>
   
   <!-- 独立徽标 -->
@@ -24,7 +24,9 @@
   [![](https://data.jsdelivr.com/v1/package/gh/Spritesmine/Spritesmine/badge)]() 
   [![](https://img.shields.io/badge/t.me-@QISANSUI-goldenrod?style=flat&logo=telegram)]() 
     <a href="mailto:sansuishushu@gmail.com"><img src="https://img.shields.io/badge/Gmail-sansuishushu@gmail.com-springgreen?style=flat&logo=gmail&link=mailto:sansuishushu@gmail.com"></a>
-    <a href="https://space.bilibili.com/91371045"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>
+    <a href="https://web.vip.miui.com/page/info/mio/mio/homePage?uid=1050510190"><img src="https://img.shields.io/badge/Xiaomi-小米-orange?style=flat-square&logo=Xiaomi"></a>
+    <a href="https://space.bilibili.com/91371045"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4?style=flat-square&logo=bilibili"></a>
+    <a href="https://zhihu.com/people/Spritesmine"><img src="https://img.shields.io/badge/zhihu-知乎-blue?style=flat-square&logo=zhihu"></a>
   [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]() 
   </div>
 

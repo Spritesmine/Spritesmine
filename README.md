@@ -54,7 +54,7 @@ I prefer practice, familiar <b>proficient</b> in the following skills (in order 
 
 Out of self-learning and hobbies, I will open source some small projects on Github. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility. My expectation is to research some interesting project according to my preferences. Welcome to send emails or leave messages to communicate with me.
 
-(｡◕ˇ∀ˇ◕) Everything comes from interest, always believe that something wonderful is about to happen~ ~ ~ 
+(｡◕ˇ∀ˇ◕) Everything comes from interest, always believe that something wonderful is about to happen ~ ~ ~ 
 
  You can also find my [learning summary](https://www.qisansui.cn) and [open source project above](https://github.com/Spritesmine/)
 

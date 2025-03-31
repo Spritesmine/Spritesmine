@@ -22,6 +22,7 @@
   <!-- 独立徽标 -->
   [![](https://visitor-badge.laobi.icu/badge?page_id=spritesmine.spritesmine)]() 
   [![](https://data.jsdelivr.com/v1/package/gh/Spritesmine/Spritesmine/badge)]() 
+  <a href="https://weibo.com/u/1749127163"><img src="https://img.shields.io/badge/LeiJun-永远相信美好的事情即将发生-orange?style=flat-square"></a>
   [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]() 
   </div>
 

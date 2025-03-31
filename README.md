@@ -12,17 +12,17 @@
 
   <!-- 个人资料徽标 -->
   <div align="center">
-    <a href="https://qisansui.cn/"><img src="https://img.shields.io/badge/name-QISANSUI-orange?style=flat-square&logo=Analogue"></a>
-    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🇨🇳_Live_In-💖_China-e60000?style=flat-square"></a>
-    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🤣_Language-汉语、English-pink?style=flat-square"></a>
-    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=flat-square&logo=devbox"></a>
-    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/OS-Windows-deepskyblue?style=flat-square&logo=binance"></a>
-    <a href="https://qisansui.cn/"><img src="https://img.shields.io/badge/Blog-QISANSUI.CN-339933?style=flat-square&logo=appveyor"></a>
+    <a href="https://qisansui.cn/"><img src="https://img.shields.io/badge/name-QISANSUI-orange?style=flat&logo=Analogue"></a>
+    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🇨🇳_Live_In-💖_China-e60000?style=flat"></a>
+    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/🤣_Language-汉语、English-pink?style=flat"></a>
+    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=flat&logo=devbox"></a>
+    <a href="https://github.com/Spritesmine"><img src="https://img.shields.io/badge/OS-Windows-deepskyblue?style=flat&logo=binance"></a>
+    <a href="https://qisansui.cn/"><img src="https://img.shields.io/badge/Blog-QISANSUI.CN-339933?style=flat&logo=appveyor"></a>
     
   <!-- 独立徽标 -->
   [![](https://visitor-badge.laobi.icu/badge?page_id=spritesmine.spritesmine)]() 
   [![](https://data.jsdelivr.com/v1/package/gh/Spritesmine/Spritesmine/badge)]() 
-  <a href="https://weibo.com/u/1749127163"><img src="https://img.shields.io/badge/LeiJun-永远相信美好的事情即将发生-orange?style=flat-square"></a>
+  <a href="https://weibo.com/u/1749127163"><img src="https://img.shields.io/badge/LeiJun-永远相信美好的事情即将发生-orange?style=flat"></a>
   [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]() 
   </div>
 
@@ -64,8 +64,8 @@ Out of self-learning and hobbies, I will open source some small projects on Gith
 
    [![](https://img.shields.io/badge/t.me-@QISANSUI-goldenrod?style=flat&logo=telegram)]() 
     <a href="mailto:sansuishushu@gmail.com"><img src="https://img.shields.io/badge/Gmail-sansuishushu@gmail.com-springgreen?style=flat&logo=gmail&link=mailto:sansuishushu@gmail.com"></a>
-    <a href="https://web.vip.miui.com/page/info/mio/mio/homePage?uid=1050510190"><img src="https://img.shields.io/badge/Xiaomi-小米-orange?style=flat-square&logo=Xiaomi"></a>
-    <a href="https://space.bilibili.com/91371045"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4?style=flat-square&logo=bilibili"></a>
-    <a href="https://zhihu.com/people/Spritesmine"><img src="https://img.shields.io/badge/zhihu-知乎-blue?style=flat-square&logo=zhihu"></a>
-    <a href="https://about.qisansui.cn"><img src="https://img.shields.io/badge/About-me-e6e6fa?style=flat-square&logo=frontendmentor"></a>
+    <a href="https://web.vip.miui.com/page/info/mio/mio/homePage?uid=1050510190"><img src="https://img.shields.io/badge/Xiaomi-小米-orange?style=flat&logo=Xiaomi"></a>
+    <a href="https://space.bilibili.com/91371045"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4?style=flat&logo=bilibili"></a>
+    <a href="https://zhihu.com/people/Spritesmine"><img src="https://img.shields.io/badge/zhihu-知乎-blue?style=flat&logo=zhihu"></a>
+    <a href="https://about.qisansui.cn"><img src="https://img.shields.io/badge/About-me-e6e6fa?style=flat&logo=frontendmentor"></a>
     

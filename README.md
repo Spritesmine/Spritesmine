@@ -28,7 +28,7 @@
 
 <!-- 主文 -->
 
-### ٩(๑❛ᴗ❛๑)۶&nbsp;&nbsp;&nbsp;&nbsp;- -&nbsp;&nbsp;Spritesmine&nbsp;&nbsp;- -&nbsp;&nbsp;&nbsp;ヾ(✿ﾟ▽ﾟ)ノ
+### ٩(๑❛ᴗ❛๑)۶&nbsp;&nbsp;&nbsp;&nbsp;- -&nbsp;&nbsp;Spritesmine&nbsp;&nbsp;- -&nbsp;&nbsp;&nbsp;ヾ(๑╹◡╹)ﾉ"
 
 > 落日沉溺于橘色的海 晚风沦陷于赤诚的爱
 

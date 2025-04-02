@@ -63,6 +63,7 @@ Out of self-learning and hobbies, I will open source some small projects on Gith
 ### Contact
 
    [![](https://img.shields.io/badge/t.me-@QISANSUI-goldenrod?style=flat&logo=telegram)]() 
+    <a href="tencent://ContactInfo/?subcmd=ViewInfo&puin=0&uin=1073197808"><img src="https://img.shields.io/badge/OICQ-QQ-00ccff?style=flat&logo=QQ"></a>
     <a href="mailto:sansuishushu@gmail.com"><img src="https://img.shields.io/badge/Gmail-sansuishushu@gmail.com-springgreen?style=flat&logo=gmail&link=mailto:sansuishushu@gmail.com"></a>
     <a href="https://web.vip.miui.com/page/info/mio/mio/homePage?uid=1050510190"><img src="https://img.shields.io/badge/Xiaomi-小米-orange?style=flat&logo=Xiaomi"></a>
     <a href="https://space.bilibili.com/91371045"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4?style=flat&logo=bilibili"></a>

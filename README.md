@@ -40,7 +40,7 @@
 
 Here is Spritesmine, a student from Hebei, China.
 
-Computer content depth enthusiasts, tossing experts, especially interested in computer skills. I like everything that Interests me. In my spare time, I like to write code, watch computer content and study computer content. Study for hobbies. I like tossing. My article will be on my [Blog](https://qisansui.cn)(zh-CN).
+Computer content depth enthusiasts, tossing experts, especially interested in computer skills. I like everything that Interests me. In my spare time, I like to write code, watch computer content and study computer content. Study for hobbies. I like tossing. Love exploring new tech stack and building cool stuffs. My article will be on my [Blog](https://qisansui.cn)(zh-CN).
 
 I want to be an interesting person and create something that can be remembered by others ಠᴗಠ.
 
@@ -71,3 +71,10 @@ Out of self-learning and hobbies, I will open source some small projects on Gith
     <a href="https://juejin.cn/user/2928754709239774"><img src="https://img.shields.io/badge/juejin-稀土掘金-1e95ff?style=flat&logo=juejin"></a>
     <a href="https://about.qisansui.cn"><img src="https://img.shields.io/badge/About-me-e6e6fa?style=flat&logo=frontendmentor"></a>
     
+#
+
+<div align="center">
+
+<b>World Peace ❤️ No illness or Disaster</b>
+
+</div>
